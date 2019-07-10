@@ -177,6 +177,13 @@ h2.subtitle {
 	margin: 40px 0 60px;
 }
 
+.contacts {
+	margin-top: 30px;
+	color: #fff;
+	text-align: center;
+    padding: 0;
+    margin-bottom: 5px;
+}
 
 /* footer */
 p.copyright {
